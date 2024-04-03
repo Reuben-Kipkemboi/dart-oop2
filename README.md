@@ -20,3 +20,7 @@ First class - Student
 
 Second class - Teacher
 ![Class Teacher Test output ](/images/class-2.png "class Teacher")
+
+BothOutputs combined with third class
+![Class Teacher&Student Test output ](/images/last.png "class Teacher&Student")
+

@@ -10,5 +10,8 @@ The challenge is to create a Dart program that meets the following requirements:
 - Create a third class that creates a student and teacher object, and calls the methods to print out the information.
 
 ## Test Outputs
-First class
+First class - Student
 ![Class Student Test output ](/images/class-1.png "class Student")
+
+Second class - Teacher
+![Class Teacher Test output ](/images/class-2.png "class Teacher")

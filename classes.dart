@@ -25,9 +25,18 @@ class Teacher {
   }
 }
 
-void main() {
-  // Create a Teacher object
-  Teacher teacher = Teacher("Kipkemboi ", 78, "Dart");
-  // Call the printInfo method
-  teacher.printInfo();
+// Main class
+class BothTeacherStudent {
+  void printBothStudentAndTeacherInfo() {
+    // Create a student object
+    Student student = Student("Reuben Rotich", 99, 1);
+    // Create a teacher object
+    Teacher teacher = Teacher("Mr. Allan", 35, "Dart&Python");
+
+    // Print student information
+    student.printInfo();
+    // Print teacher information
+    teacher.printInfo();
+  }
 }
+

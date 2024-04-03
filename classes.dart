@@ -40,3 +40,10 @@ class BothTeacherStudent {
   }
 }
 
+void main() {
+  // Create an instance of the main class
+  BothTeacherStudent allInfo = BothTeacherStudent();
+  // Call the method to print student and teacher information
+  allInfo.printBothStudentAndTeacherInfo();
+}
+
